@@ -3,12 +3,16 @@
         "id": 1,
         "title": "Taming Big Data with Apache Spark and Python - Hands On!",
         "body": "Sundog Education by Frank Kane",
+        "price": "$13.5",
+        "rating": 4.5,
         "img": "https://img-c.udemycdn.com/course/240x135/622414_03f5_4.jpg"
     },
     {
         "id": 2,
         "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
         "body": "Bryson Payne",
+        "price": "$12.56",
+        "rating": 4.7,
         "img": "https://img-c.udemycdn.com/course/240x135/519554_da68_6.jpg"
     },
     {
